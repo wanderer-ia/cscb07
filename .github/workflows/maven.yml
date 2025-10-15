@@ -6,7 +6,7 @@
 # separate terms of service, privacy policy, and support
 # documentation.
 
-name: lab3
+name: cscb07.lab3
 
 on:
   push:
